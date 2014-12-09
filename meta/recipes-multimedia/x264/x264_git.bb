@@ -11,7 +11,7 @@ SRC_URI = "git://git.videolan.org/x264.git \
            file://don-t-default-to-cortex-a9-with-neon.patch \
            "
 
-SRCREV = "585324fee380109acd9986388f857f413a60b896"
+SRCREV = "bfed708c5358a2b4ef65923fb0683cefa9184e6f"
 
 PV = "r2265+git${SRCPV}"
 
